@@ -1,0 +1,4 @@
+com\codeq\producer\handler\WikiMediaHandler.class
+com\codeq\producer\config\KafkaTopicConfig.class
+com\codeq\producer\SpringBootProducerApplication.class
+com\codeq\producer\controller\MessageController.class
